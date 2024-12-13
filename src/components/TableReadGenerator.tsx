@@ -159,7 +159,7 @@ const TableReadGenerator = () => {
             <AlertCircle className="h-4 w-4" />
             <AlertTitle>Style Tips</AlertTitle>
             <AlertDescription>
-              Try specific prompts like "Sorkin-style rapid-fire dialogue about mundane topics" or "Kubrick-esque psychological tension with long pauses"
+              Try specific prompts like &ldquo;Sorkin-style rapid-fire dialogue about mundane topics&rdquo; or &ldquo;Kubrick-esque psychological tension with long pauses&rdquo;
             </AlertDescription>
           </Alert>
         </CardContent>
